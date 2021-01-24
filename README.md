@@ -4,14 +4,18 @@
 
 # 👁👄👁
 
+### Presently working on:
+* Learning Java
+* Webscraping w/ Java & Python (Independant of eachother, don't misunderstand my wording here!)
+* Continued .NET learning *VB, C#*
+* Learning WebDev stuff
+* SQL 👁👄👁
 ---
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
+### Projects I Wanna Work On (soon):
+* Rust, It's got big dev energy - and i have small dev energy
+* C# in a Unity environment - my last game didn't go so well...
 
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
+---
 
 
 <a href="https://github.com/im-zach/github-readme-stats">
