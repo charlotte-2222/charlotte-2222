@@ -1,8 +1,8 @@
 </a>
+<h1 align="center">How's it going? I'm Zach Childers!</h1>
+<h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode!</h3>
 
-## Hi! I'm Zach Childers! I enjoy gaming, coding, and most importantly; Dark Mode!
-
-# 👁👄👁
+<h3 align="center">👁👄👁</h3>
 
 ### Presently working on:
 * Learning Java
@@ -30,5 +30,5 @@
 
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=im-zach&theme=dracula" />
-</a>    
+  <p align="center" src="https://github-profile-trophy.vercel.app/?username=im-zach&theme=dracula" /></a> </p>
+  
