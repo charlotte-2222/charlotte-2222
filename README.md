@@ -1,16 +1,29 @@
-### Hi there 👋
+</a>
 
-<!--
-**im-zach/im-zach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi! I'm Zach Childers! I enjoy gaming, coding, and most importantly; Dark Mode!
 
-Here are some ideas to get you started:
+# 👁👄👁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
+
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+
+
+<a href="https://github.com/im-zach/github-readme-stats">
+  <!-- this is good -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-zach&show_icons=true&theme=merko" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/im-zach/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&layout=compact&theme=dark" />
+</a>
+
+<a href="https://github.com/im-zach/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=im-zach&theme=dracula" />
+</a>    
