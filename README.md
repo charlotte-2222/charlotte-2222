@@ -6,7 +6,7 @@
 
 ### Presently working on:
 * Learning Java
-* Webscraping w/ Java & Python (Independant of eachother, don't misunderstand my wording here!)
+* Webscraping w/ Java *(Final Project Related)*
 * Continued .NET learning *VB, C#*
 * Learning WebDev stuff
 * SQL 👁👄👁
@@ -14,6 +14,7 @@
 ### Projects I Wanna Work On (soon):
 * Rust, It's got big dev energy - and i have small dev energy
 * C# in a Unity environment - my last game didn't go so well...
+* Webscraping w/ Python *(if Caleb can pull pictures of cats, I wanna pull pictures of rabbits)*
 
 ---
 
