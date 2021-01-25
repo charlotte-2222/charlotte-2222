@@ -19,17 +19,20 @@
 ---
 
 
+
+---
+
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- this is good -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-zach&show_icons=true&theme=merko" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&langs_count=10&theme=dark" />
 </a>
 
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right,center" src="https://github-profile-trophy.vercel.app/?username=im-zach&title=Joined2020, Commit, Repositories, Stars, Followers&theme=dracula" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=im-zach&title=Joined2020, Commit, Repositories, Stars, Followers&theme=dracula" />
 </a>
   
