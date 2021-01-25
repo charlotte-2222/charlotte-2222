@@ -26,10 +26,12 @@
   <!-- this is good -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-zach&show_icons=true&theme=merko" alt="Anurag's github stats" />
 </a>
+<br>
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&langs_count=10&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&langs_count=10&layout=compact&theme=dark" />
 </a>
+</br>
 
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
