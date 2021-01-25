@@ -2,7 +2,9 @@
 <h1 align="center">How's it going? I'm Zach Childers!</h1>
 <h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode!</h3>
 
-<h3 align="center">👁👄👁</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/im-zach/im-zach/main/4275_pepe_5head.png" alt="am smaht" class="center"/>
+</p>
 
 ### Presently working on:
 * Learning Java
