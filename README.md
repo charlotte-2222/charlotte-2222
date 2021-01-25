@@ -18,7 +18,7 @@
 
 ---
 <p>
-    <a href="https://discord.gg/m6RPFpzDuD"><img align="center" src="https://imgur.com/gallery/pFH43Vv" alt="Discord server" /></a>
+    <a href="https://discord.gg/m6RPFpzDuD"><img align="center" src="https://imgur.com/gallery/rlHgQa2" alt="Discord server" /></a>
 </p>
 
 
