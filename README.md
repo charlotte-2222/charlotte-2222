@@ -29,7 +29,7 @@
 <br>
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&exclude_repo=Tatetenashi, big-list-of-naughty-strings, XKCD-password-generator-PyTorch-BigGraph&langs_count=6&layout=compact&hide=c, batchfile, powershell &theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&exclude_repo=Tatetenashi, big-list-of-naughty-strings, XKCD-password-generator-PyTorch-BigGraph&langs_count=5&layout=compact&hide=c, batchfile, powershell &theme=dark" />
 </a>
 </br>
 
