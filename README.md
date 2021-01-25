@@ -21,7 +21,6 @@
     <a href="https://discord.gg/m6RPFpzDuD"><img align="center" src="https://raw.githubusercontent.com/im-zach/im-zach/main/Discord-Logo-Color.png" alt="Discord server" /></a>
 </p>
 
-
 ---
 
 <a href="https://github.com/im-zach/github-readme-stats">
