@@ -17,7 +17,9 @@
 * Webscraping w/ Python *(if Caleb can pull pictures of cats, I wanna pull pictures of rabbits)*
 
 ---
-
+<p>
+    <a href="https://discord.gg/m6RPFpzDuD"><img align="center" src="https://imgur.com/gallery/pFH43Vv" alt="Discord server" /></a>
+</p>
 
 
 ---
