@@ -7,7 +7,7 @@
 ### Presently working on:
 * Learning Java
 * Webscraping w/ Java *(Final Project Related)*
-* Continued .NET learning *VB, C#*
+* Continued .NET learning (*VB, C#*)
 * Learning WebDev stuff
 * SQL 👁👄👁
 ---
