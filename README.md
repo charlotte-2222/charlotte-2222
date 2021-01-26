@@ -30,7 +30,7 @@
 <br>
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&langs_count=8&hide=c,batchfile,powershell &theme=dark&layout=compact&exclude_repo=TheFragment/GizmoDND" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&langs_count=8&hide=c,batchfile,powershell &theme=dark&layout=compact" />
 </a>
 </br>
 
