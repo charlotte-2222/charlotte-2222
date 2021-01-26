@@ -30,7 +30,7 @@
 <br>
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&langs_count=8&hide=,Emacs,NSIS,c,batchfile,powershell &theme=dark&layout=compact&exclude_repo=Github-GizmoDND, Github-Flairs, Github-Big-List-Of-Naughty-Strings, Github-XKCD-Password-generator, Github-PyTorch-BigGraph, " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&langs_count=8&hide=,Emacs lisp,NSIS,c,batchfile,powershell &theme=dark&layout=compact&exclude_repo=Github-GizmoDND, Github-Flairs, Github-Big-List-Of-Naughty-Strings, Github-XKCD-Password-generator, Github-PyTorch-BigGraph, " />
 </a>
 </br>
 
