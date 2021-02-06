@@ -1,8 +1,8 @@
-</a>
+<a>
+<p align = "center">
+    <img align = "center" src="https://raw.githubusercontent.com/im-zach/im-zach/main/portLogo.png"></p>
 <h1 align="center">How's it going? I'm Zach Childers!</h1>
 <h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode! </br>
-<img src="https://raw.githubusercontent.com/im-zach/im-zach/main/4275_pepe_5head.png" alt="am smaht" class="center"/> </h3>
-
 
 ### Presently working on:
 * Learning Java
