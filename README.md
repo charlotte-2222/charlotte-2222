@@ -18,7 +18,7 @@
 
 ---
 <p align = "center">
-    <a href="https://discord.gg/m6RPFpzDuD"><img align="center" src="https://raw.githubusercontent.com/im-zach/im-zach/main/Discord-Logo-Color.png" alt="Discord server" /></a>
+    <a href="https://discord.gg/m6RPFpzDuD"><img align="center" src="https://github.com/im-zach/im-zach/blob/main/Discord-Logo+Wordmark-Color.png?raw=true" alt="Discord server" height = 100 width = 300/></a>
 </p>
 
 ---
