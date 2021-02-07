@@ -6,9 +6,9 @@
 
 ### Presently working on:
 * Learning Java
-* Webscraping w/ Java *(Final Project Related)*
+* <a href="https://github.com/im-zach/Java-Final-Proj">Webscraping w/ Java</a>
 * Continued .NET learning (*VB, C#*)
-* Learning WebDev stuff
+* <a href="https://github.com/im-zach/Web-Dev">Learning WebDev stuff</a>
 * SQL 👁👄👁
 ---
 ### Projects I Wanna Work On (soon):
