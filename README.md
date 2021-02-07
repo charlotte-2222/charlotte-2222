@@ -18,24 +18,22 @@
 
 ---
 <p align = "center">
-    <a href="https://discord.gg/m6RPFpzDuD"><img align="center" src="https://github.com/im-zach/im-zach/blob/main/Discord-Logo+Wordmark-Color.png?raw=true" alt="Discord server" height = 100 width = 300/></a>
+    <a href="https://discord.gg/a3QuRJwYQd"><img align="center" src="https://github.com/im-zach/im-zach/blob/main/Discord-Logo+Wordmark-Color.png?raw=true" alt="Discord server" height = 100 width = 300/></a>
 </p>
 
 ---
-
+<p align = "left">
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- this is good -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-zach&show_icons=true&theme=merko" alt="Anurag's github stats" />
+</a><a href="https://github.com/im-zach/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&langs_count=8&hide=,Emacs lisp,NSIS,c,batchfile,powershell &theme=dark&layout=compact&exclude_repo=Github-GizmoDND, Github-Flairs, Github-Big-List-Of-Naughty-Strings, Github-XKCD-Password-generator, Github-PyTorch-BigGraph, " /></p>
 </a>
 <br>
-<a href="https://github.com/im-zach/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&langs_count=8&hide=,Emacs lisp,NSIS,c,batchfile,powershell &theme=dark&layout=compact&exclude_repo=Github-GizmoDND, Github-Flairs, Github-Big-List-Of-Naughty-Strings, Github-XKCD-Password-generator, Github-PyTorch-BigGraph, " />
-</a>
-</br>
-
+<p align ="center">
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=im-zach&title=Joined2020, Commit, Repositories, Stars, Followers&theme=dracula" />
-</a>
+</a></p>
   
