@@ -24,7 +24,7 @@
 </p>
 
 ---
-<p align = "left">
+<p align = "center">
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- this is good -->
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=im-zach&show_icons=true&theme=merko" alt="Anurag's github stats" />
