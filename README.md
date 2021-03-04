@@ -9,7 +9,7 @@
 * <a href="https://github.com/im-zach/Java-Final-Proj">Webscraping w/ Java</a>
 * Continued .NET learning (*VB, C#*)
 * <a href="https://github.com/im-zach/Web-Dev">Learning WebDev stuff</a>
-8 <a href="https://github.com/im-zach/FemboyBot">A Personalized Discord Bot for a Client's Server</a>
+* <a href="https://github.com/im-zach/FemboyBot">A Personalized Discord Bot for a Client's Server</a>
 ---
 ### Projects I Wanna Work On (soon):
 * Rust, It's got big dev energy - and i have small dev energy
