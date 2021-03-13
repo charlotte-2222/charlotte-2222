@@ -5,10 +5,10 @@
 <h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode! </br>
 
 ### Presently working on:
-* <a href="https://github.com/im-zach/Java-Final-Proj">Webscraping w/ Java</a>
+* <a href="https://github.com/im-zach/Java-Final-Proj"> Webscraping w/ Java</a>
 * Continued .NET learning (*VB, C#*)
 * getting a job...
-* <a href="https://im-zach.github.io>Finishing my Portfolio</a>
+* <a href="https://im-zach.github.io">Finishing my Portfolio</a>
 * <a href="https://github.com/im-zach/FemboyBot">A Personalized Discord Bot for a Client's Server</a>
 ---
 ### Projects I Wanna Work On (soon):
