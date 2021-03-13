@@ -5,16 +5,19 @@
 <h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode! </br>
 
 ### Presently working on:
-* Learning Java
 * <a href="https://github.com/im-zach/Java-Final-Proj">Webscraping w/ Java</a>
 * Continued .NET learning (*VB, C#*)
-* <a href="https://github.com/im-zach/Web-Dev">Learning WebDev stuff</a>
+* getting a job...
+* <a href="https://im-zach.github.io>Finishing my Portfolio</a>
 * <a href="https://github.com/im-zach/FemboyBot">A Personalized Discord Bot for a Client's Server</a>
 ---
 ### Projects I Wanna Work On (soon):
-* Rust, It's got big dev energy - and i have small dev energy
-* C# in a Unity environment - my last game didn't go so well...
-* Webscraping w/ Python *(if Caleb can pull pictures of cats, I wanna pull pictures of rabbits)*
+* Rust, It's got big dev energy, for all sorts of things... Serenity-rs comes to mind.
+* Make more websites, focus on Django / Flask, maybe look into more .JS stuff
+* Getting a dang job
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-zach&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
 ---
 <p align = "center">
