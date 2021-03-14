@@ -39,6 +39,6 @@
 <p align ="left">
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=im-zach&title=Joined2020, Commit, Repositories, Stars&theme=dracula" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=im-zach&title=Joined2020, Commit, Repositories, Issues, MultiLanguage&theme=dracula" />
 </a></p>
  
