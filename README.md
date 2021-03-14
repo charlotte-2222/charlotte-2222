@@ -36,7 +36,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zach&langs_count=8&hide=,Emacs lisp,NSIS,c,perl,batchfile,powershell &theme=dark&exclude_repo=Github-GizmoDND, Github-Flairs, Github-Big-List-Of-Naughty-Strings, Github-XKCD-Password-generator, Github-PyTorch-BigGraph, " /></p>
 </a>
 <br>
-<p align ="center">
+<p align ="left">
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=im-zach&title=Joined2020, Commit, Repositories, Stars, Followers&theme=dracula" />
