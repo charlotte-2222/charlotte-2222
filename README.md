@@ -20,13 +20,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-zach&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
 ---
-<p align = "center">
-    <a href="https://docs.google.com/document/d/16YmW2TyM2F7eesU80omdn8Ge8poNrcGmCcmRlX37nf4/edit?usp=sharing"><img align="left" src="https://raw.githubusercontent.com/im-zach/im-zach/main/64A9A03B-6F94-4E91-8F48-453DA9972E10.png" alt="Resume" height = 60 width = 70/></a>
-    <a href="https://discord.gg/a3QuRJwYQd"><img align="center" src="https://github.com/im-zach/im-zach/blob/main/Discord-Logo+Wordmark-Color.png?raw=true" alt="Discord server" height = 80 width = 250/></a>
-      <a href="mailto:zdchilders10@sccsc.edu"><img align="right" src="https://raw.githubusercontent.com/im-zach/im-zach/main/mail.png" alt="zdchilders10@sccsc.edu" height = 60 width = 70/></a>
-</p>
 
----
 <p align = "center">
 <a href="https://github.com/im-zach/github-readme-stats">
   <!-- this is good -->
