@@ -1,7 +1,6 @@
 <a>
 <p align = "center">
     <img align = "center" src="https://raw.githubusercontent.com/im-zach/im-zach/main/portLogo.png"></p>
-<h1 align="center">I'm Zach Childers</h1>
 <h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode! </br>
 
 ### Doing:
