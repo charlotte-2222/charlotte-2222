@@ -1,6 +1,6 @@
 <a>
 <p align = "center">
-    <img align = "center" src="https://raw.githubusercontent.com/im-zach/im-zach/main/portLogo.png"></p>
+    <img align = "center" src="https://raw.githubusercontent.com/charlotte-2222/charlotte-222/char_char.png"></p>
 <h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode! </br>
 
 ### Doing:
