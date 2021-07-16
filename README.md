@@ -4,10 +4,9 @@
 <h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode! </br>
 
 ### Doing:
-* <a href="https://github.com/im-zach/Java-Final-Proj"> Webscraping w/ Java</a>
-* getting a job...
-* <a href="https://im-zach.github.io">Finishing my Portfolio</a>
-* <a href="https://github.com/im-zach/FemboyBot">A Personalized Discord Bot for a Client's Server</a>
+* Python code for myself & clients
+* Honing web development skills
+* I work a lot with Discord.py & do make bots; I will make you a bot, and will even host for a time - but it will not be free. Otherwise I can briefly give you a summarized how-to on what steps you need to take on building and mainting your bot. :)
 ---
 ### (Want) TO-DO:
 * Learn rust
