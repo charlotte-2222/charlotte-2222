@@ -1,6 +1,6 @@
 <a>
 <p align = "center">
-    <img align = "center" src="https://github.com/charlotte-2222/charlotte-2222/blob/main/char_char.png" width="200" height="200"></p>
+    <img align = "center" src="https://github.com/charlotte-2222/charlotte-2222/blob/main/cocoa.png" width="200" height="200"></p>
 <h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode! </br>
 
 ### Doing:
@@ -9,6 +9,7 @@
 * I work a lot with Discord.py & do make bots; I will make you a bot, and will even host for a time - but it will not be free. Otherwise I can briefly give you a summarized how-to on what steps you need to take on building and mainting your bot. :)
 ---
 ### (Want) TO-DO:
+* Get a job (Hire me?)
 * Learn rust
 * Work with more devs on a project
 * contribute to an Open Source project (not my own)
