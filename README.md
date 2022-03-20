@@ -4,9 +4,9 @@
 <h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode! </br>
 
 ### Doing:
-* Python code for myself & clients
+* <a href="https://github.com/EggDevPy/cocoaPy"> Collaborating on a new Discord.py project </a>
 * <a href="https://charlotte-2222.github.io/char-site/">Honing my web dev skills</a>
-* I work a lot with Discord.py & do make bots; I will make you a bot, and will even host for a time - but it will not be free. Otherwise I can briefly give you a summarized how-to on what steps you need to take on building and mainting your bot. :)
+* Applying for _a lot_ of jobs
 ---
     
 <div align="center">   
