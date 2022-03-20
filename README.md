@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlotte-2222&layout=compact&langs_count=5&hide=roff,xslt&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
     
 <br><a href="https://github.com/charlotte-2222/FembotV3">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=FembotV3&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=FembotV3&theme=omni)](https://github.com/charlotte-2222/FembotV3)
  </a>
 
 <br><a href="https://github.com/EggDevPy/cocoaPy">
