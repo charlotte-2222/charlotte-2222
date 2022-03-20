@@ -1,16 +1,15 @@
-<a>
-<p align = "center">
-    <img align = "center" src="https://github.com/charlotte-2222/charlotte-2222/blob/main/cocoa_cropped.png" width="200" height="200"></p>
+<h1 align="center">Hi, I'm Charlotte!</h1>
+
 <h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode! </br>
 
-### Doing:
+### I'm Currently Doing:
 * <a href="https://github.com/EggDevPy/cocoaPy"> Collaborating on a new Discord.py project </a>
 * <a href="https://charlotte-2222.github.io/char-site/">Honing my web dev skills</a>
 * Applying for _a lot_ of jobs
 ---
     
 <div align="center">   
-    
+   
 [![Stats](https://github-readme-stats.vercel.app/api?username=charlotte-2222&show_icons=true&count_private=true&include_all_commits=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlotte-2222&layout=compact&langs_count=5&hide=roff,xslt&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
