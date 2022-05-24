@@ -2,10 +2,10 @@
 
 <h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode! </br>
 
-### I'm Currently Doing:
+
+
+### Current Projects (Personal):
 * <a href="https://github.com/EggDevPy/cocoaPy"> Collaborating on a new Discord.py project </a>
-* <a href="https://charlotte-2222.github.io/char-site/">Honing my web dev skills</a>
-* Applying for _a lot_ of jobs
 ---
     
 <div align="center">   
@@ -26,7 +26,25 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-zach&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=im-zach&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"> 
+    
+<a href="https://www.linkedin.com/in/charlotte-childers-2500b2235/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+    
+ <a href="https://twitter.com/Charlotte_cjc">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+    
+
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+
+
+</p>
+
+
+
 
 ---
  
