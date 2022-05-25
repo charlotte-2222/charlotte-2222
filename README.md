@@ -22,8 +22,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EggDevPy&repo=cocoaPy&theme=omni)](https://github.com/EggDevPy/cocoaPy)
  </a>
     
-<br><a href="https://github.com/charlotte-2222/VB-Final-Vet-Project">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=VB-Final-Vet-Project&theme=omni)](https://github.com/charlotte-2222/VB-Final-Vet-Project)
+<br><a href="https://github.com/charlotte-2222/Rolling-Hills-Veterinarian">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=Rolling-Hills-Veterinarian&theme=omni)](https://github.com/charlotte-2222/Rolling-Hills-Veterinarian)
  </a>
     
     
