@@ -10,9 +10,9 @@
     
 <div align="center">   
    
-[![Stats](https://github-readme-stats.vercel.app/api?username=charlotte-2222&show_icons=true&count_private=true&include_all_commits=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github.com/charlotte-2222/gitstats/blob/master/generated/overview.svg)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlotte-2222&layout=compact&langs_count=5&hide=roff,xslt,c,_e-macs,elisp&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github.com/charlotte-2222/gitstats/blob/master/generated/languages.svg)
     
 <br><a href="https://github.com/charlotte-2222/FembotV3">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=FembotV3&theme=omni)](https://github.com/charlotte-2222/FembotV3)
