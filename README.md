@@ -18,8 +18,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=FembotV3&theme=omni)](https://github.com/charlotte-2222/FembotV3)
  </a>
 
-<br><a href="https://github.com/EggDevPy/cocoaPy">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EggDevPy&repo=cocoaPy&theme=omni)](https://github.com/EggDevPy/cocoaPy)
+<br><a href="https://github.com/charlotte-2222/the-buttons">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=the-buttons&theme=omni)](https://github.com/charlotte-2222/the-buttons)
  </a>
     
 <br><a href="https://github.com/charlotte-2222/Rolling-Hills-Veterinarian">
