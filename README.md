@@ -10,9 +10,9 @@
     
 <div align="center">   
    
-![Stats](https://github.com/charlotte-2222/CopyofGitVisual/blob/master/generated/overview.svg)
+![Stats](https://github.com/charlotte-2222/CopyofGitVisual/blob/master/generated/overview.svg#gh-dark-mode-only)
     
-![Top Langs](https://github.com/charlotte-2222/CopyofGitVisual/blob/master/generated/languages.svg)
+![Top Langs](https://github.com/charlotte-2222/CopyofGitVisual/blob/master/generated/languages.svg#gh-dark-mode-only)
     
 <br><a href="https://github.com/charlotte-2222/FembotV3">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=FembotV3&theme=omni)](https://github.com/charlotte-2222/FembotV3)
