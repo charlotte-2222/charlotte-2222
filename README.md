@@ -1,11 +1,10 @@
-<h1 align="center">Hi, I'm Charlotte!</h1>
+<h1 align="center">Hi, I'm Charlotte!<br>
+💚 </h1>
 
 <h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode! </br>
 
 
 
-### Current Projects (Personal):
-* <a href="https://github.com/EggDevPy/cocoaPy"> Collaborating on a new Discord.py project </a>
 ---
     
 <div align="center">   
