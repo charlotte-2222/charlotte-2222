@@ -29,21 +29,7 @@
 </div>
 
 
-
-
-
-
-<p align=""> 
-<img src="https://komarev.com/ghpvc/?username=im-zach&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"> 
-    
-<a href='https://ko-fi.com/L3L6DN5TC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
-    
-
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
-
-
-</p>
-
+<hr>
 
 
 ### Latest Blog Post:
@@ -55,3 +41,14 @@
 - [A Little Bit of Kotlin](https://charlotte-2222.github.io/2022/07/19/kotlin-final.html)
 - [Tutoring, Code and… Polyamory?](https://charlotte-2222.github.io/2022/07/18/poly-and-tutors.html)
 <!-- BLOG-POST-LIST:END -->
+
+<hr>
+
+<p align=""> 
+<img src="https://komarev.com/ghpvc/?username=im-zach&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"> 
+    <a href='https://ko-fi.com/L3L6DN5TC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
+    
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+
+
+</p>
