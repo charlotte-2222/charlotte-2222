@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm Charlotte!<br>
-💚 </h1>
 
-<h3 align="center">I enjoy gaming, coding, and most importantly; Dark Mode! </br>
+<img src="https://raw.githubusercontent.com/charlotte-2222/random-images/main/github_splash.png">
+
 
 
 
