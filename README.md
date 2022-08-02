@@ -45,7 +45,10 @@
 
 <p align=""> 
 <img src="https://komarev.com/ghpvc/?username=im-zach&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"> 
-    <a href='https://ko-fi.com/L3L6DN5TC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
+    </p>
+    
+ <p align="">   
+ <a href='https://ko-fi.com/L3L6DN5TC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
     
 <img src="https://forthebadge.com/images/badges/fuck-it-ship-it.svg">
 
