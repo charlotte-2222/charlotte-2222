@@ -49,4 +49,9 @@
 ### Latest Blog Post:
 
 <!-- BLOG-POST-LIST:START -->
+- [The new new. New?. New.](https://charlotte-2222.github.io/2022/07/28/moving-things.html)
+- [???aChallengerApproaches???](https://charlotte-2222.github.io/2022/07/25/challenger.html)
+- [Test Results &amp;amp; Some Other Things](https://charlotte-2222.github.io/2022/07/20/kt-test-and-stuff.html)
+- [A Little Bit of Kotlin](https://charlotte-2222.github.io/2022/07/19/kotlin-final.html)
+- [Tutoring, Code and… Polyamory?](https://charlotte-2222.github.io/2022/07/18/poly-and-tutors.html)
 <!-- BLOG-POST-LIST:END -->
