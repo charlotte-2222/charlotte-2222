@@ -2,6 +2,10 @@
 <img src="https://raw.githubusercontent.com/charlotte-2222/random-images/main/github_splash.png">
 
 
+<h2>🎵 Listen Along With Me 🎵</h2>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=childers6998&cover_image=true&theme=novatorem&bar_color=604bb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <details closed><summary><h1>📊Stats and Projects</h1></summary><br>
     
@@ -52,5 +56,10 @@
     
 <img src="https://forthebadge.com/images/badges/fuck-it-ship-it.svg">
 
-
 </p>
+
+<details closed><summary>Don't look</summary><br>
+you looked<br>
+<img src="https://raw.githubusercontent.com/charlotte-2222/random-images/main/6341-twerkamoguspink.gif">
+
+ </details>
