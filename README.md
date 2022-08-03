@@ -3,8 +3,7 @@
 
 
 
-
----
+<details closed><summary><h1>📊Stats and Projects</h1></summary><br>
     
 <div align="center">   
    
@@ -27,6 +26,7 @@
     
 </div>
 
+</details
 
 <hr>
 
