@@ -38,11 +38,11 @@
 ### Latest Blog Post:
 
 <!-- BLOG-POST-LIST:START -->
+- [An Eventful Week in the World](https://charlotte-2222.github.io/2022/08/11/trump-raid.html)
 - [Programming language: CharrLang](https://charlotte-2222.github.io/2022/08/04/charr-lang.html)
 - [The new new. New?. New.](https://charlotte-2222.github.io/2022/07/28/moving-things.html)
 - [???aChallengerApproaches???](https://charlotte-2222.github.io/2022/07/25/challenger.html)
 - [Test Results &amp;amp; Some Other Things](https://charlotte-2222.github.io/2022/07/20/kt-test-and-stuff.html)
-- [A Little Bit of Kotlin](https://charlotte-2222.github.io/2022/07/19/kotlin-final.html)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
