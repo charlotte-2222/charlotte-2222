@@ -38,11 +38,11 @@
 ### Latest Blog Post:
 
 <!-- BLOG-POST-LIST:START -->
-- [Silentium est aureum.](https://charlotte-2222.github.io/2022/08/25/interview-updates.html)
-- [Things are looking up](https://charlotte-2222.github.io/2022/08/18/fielding-emails.html)
-- [An Eventful Week in the World](https://charlotte-2222.github.io/2022/08/11/trump-raid.html)
-- [Programming language: CharrLang](https://charlotte-2222.github.io/2022/08/04/charr-lang.html)
-- [The new new. New?. New.](https://charlotte-2222.github.io/2022/07/28/moving-things.html)
+- [Silentium est aureum.](http://www.charlottes-web.gay/2022/08/25/interview-updates.html)
+- [Things are looking up](http://www.charlottes-web.gay/2022/08/18/fielding-emails.html)
+- [An Eventful Week in the World](http://www.charlottes-web.gay/2022/08/11/trump-raid.html)
+- [Programming language: CharrLang](http://www.charlottes-web.gay/2022/08/04/charr-lang.html)
+- [The new new. New?. New.](http://www.charlottes-web.gay/2022/07/28/moving-things.html)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
