@@ -38,11 +38,11 @@
 ### Latest Blog Post:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Anniversary and a Birthday](https://www.charlottes-web.gay/2022/09/16/epi-aniv.html)
 - [Accessibility in Games](https://www.charlottes-web.gay/2022/09/13/2022-accessibility.html)
 - [Not sure of anything.](https://www.charlottes-web.gay/2022/09/12/writing-something.html)
 - [Dough Mayne](https://www.charlottes-web.gay/2022/09/11/dough-mayne.html)
 - [Silentium est aureum.](https://www.charlottes-web.gay/2022/08/25/interview-updates.html)
-- [Things are looking up](https://www.charlottes-web.gay/2022/08/18/fielding-emails.html)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
