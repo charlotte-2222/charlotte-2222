@@ -54,12 +54,13 @@
  <p align="">   
  <a href='https://ko-fi.com/L3L6DN5TC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
     
-<img src="https://forthebadge.com/images/badges/fuck-it-ship-it.svg">
+
 
 </p>
 
-<details closed><summary>Don't look</summary><br>
-you looked<br>
-<img src="https://raw.githubusercontent.com/charlotte-2222/random-images/main/6341-twerkamoguspink.gif">
-
+<details closed><summary>What I'm Currently Doing</summary><br>
+I've taken a step back from most projects I'm contributing to at the moment.<br>
+I need to focus on finding the next path in my career, as well as focus on my relationship with my partners.
+Currently I'm pursuing a Software Engineer posistion, I'm quite interested in QA-Engineer
+positions in the Games Industry; otherwise I'm interested in learning more about full-stack.
  </details>
