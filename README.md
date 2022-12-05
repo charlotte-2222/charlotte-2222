@@ -38,11 +38,11 @@
 ### Latest Blog Post:
 
 <!-- BLOG-POST-LIST:START -->
+- [Chosen Family and Quirky HRT](https://www.charlottes-web.gay/2022/12/05/boobs-i-choose-you.html)
 - [To Be Thankful](https://www.charlottes-web.gay/2022/12/04/thankfulness.html)
 - [My Overdue Update](https://www.charlottes-web.gay/2022/11/17/november-update.html)
 - [Nightmares](https://www.charlottes-web.gay/2022/10/17/nightmares.html)
 - [The Birthday](https://www.charlottes-web.gay/2022/10/13/the-birthday.html)
-- [Hurricane Shenanigans &amp;amp; Family](https://www.charlottes-web.gay/2022/09/28/hurricane-and-family.html)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
