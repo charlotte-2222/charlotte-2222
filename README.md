@@ -52,9 +52,10 @@
     </p>
     
  <p align="">   
- <a href='https://ko-fi.com/L3L6DN5TC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
+ <a href='https://ko-fi.com/L3L6DN5TC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>&nbsp;&nbsp;&nbsp;
     
 
+<img src="https://raw.githubusercontent.com/charlotte-2222/charlotte-2222/32de06aa5256b8f3fbee5de105ce485d1bf8f360/trans-rights.svg">
 
 </p>
 
