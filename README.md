@@ -38,11 +38,11 @@
 ### Latest Blog Post:
 
 <!-- BLOG-POST-LIST:START -->
+- [New Guy, Sad Days](https://www.charlottes-web.gay/2022/12/20/new-guy-and-sads.html)
 - [South Carolina Being Anti-Trans](https://www.charlottes-web.gay/2022/12/08/sc-scary.html)
 - [Moving tags around](https://www.charlottes-web.gay/2022/12/07/classification-update.html)
 - [Chosen Family and Quirky HRT](https://www.charlottes-web.gay/2022/12/05/boobs-i-choose-you.html)
 - [To Be Thankful](https://www.charlottes-web.gay/2022/12/04/thankfulness.html)
-- [My Overdue Update](https://www.charlottes-web.gay/2022/11/17/november-update.html)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
