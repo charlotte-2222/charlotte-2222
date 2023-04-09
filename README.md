@@ -61,7 +61,5 @@
 
 <details closed><summary>What I'm Currently Doing</summary><br>
 I've taken a step back from most projects I'm contributing to at the moment.<br>
-I need to focus on finding the next path in my career, as well as focus on my relationship with my partners.
-Currently I'm pursuing a Software Engineer posistion, I'm quite interested in QA-Engineer
-positions in the Games Industry; otherwise I'm interested in learning more about full-stack.
+So truly nothing. I write occasionally, sometimes performative art. I spend time with my already established partners or otherwise dating.
  </details>
