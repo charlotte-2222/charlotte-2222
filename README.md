@@ -38,11 +38,11 @@
 ### Latest Blog Post:
 
 <!-- BLOG-POST-LIST:START -->
+- [Curiosity in Purpose](https://www.charlottes-web.gay/2023/04/08/curiosity.html)
 - [1am](https://www.charlottes-web.gay/2023/04/06/one-am.html)
 - [Fuck](https://www.charlottes-web.gay/2023/04/04/repeat-again.html)
 - [Turn of Events - for the better?](https://www.charlottes-web.gay/2023/02/24/dates-lesgo.html)
 - [The Social Media Problem](https://www.charlottes-web.gay/2023/02/18/Social-Media.html)
-- [First Post of the Year](https://www.charlottes-web.gay/2023/02/11/first-of-the-year.html)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
