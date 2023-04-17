@@ -38,11 +38,11 @@
 ### Latest Blog Post:
 
 <!-- BLOG-POST-LIST:START -->
+- [I Think I Think Too Much](https://www.charlottes-web.gay/2023/04/17/somber-regret.html)
 - [Descent into Ease](https://www.charlottes-web.gay/2023/04/11/descent-into-ease.html)
 - [Curiosity in Purpose](https://www.charlottes-web.gay/2023/04/08/curiosity.html)
 - [1am](https://www.charlottes-web.gay/2023/04/06/one-am.html)
 - [My lovely arsonist.](https://www.charlottes-web.gay/2023/04/04/repeat-again.html)
-- [Turn of Events - for the better?](https://www.charlottes-web.gay/2023/02/24/dates-lesgo.html)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
