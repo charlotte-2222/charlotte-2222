@@ -38,11 +38,11 @@
 ### Latest Blog Post:
 
 <!-- BLOG-POST-LIST:START -->
+- [Slightly annoyed rn](https://charlotte-2222.github.io/2024/01/22/Back-Again.html)
 - [I Think I Think Too Much](https://charlotte-2222.github.io/2023/04/17/somber-regret.html)
 - [Descent into Ease](https://charlotte-2222.github.io/2023/04/11/descent-into-ease.html)
 - [Curiosity in Purpose](https://charlotte-2222.github.io/2023/04/08/curiosity.html)
 - [1am](https://charlotte-2222.github.io/2023/04/06/one-am.html)
-- [My lovely arsonist.](https://charlotte-2222.github.io/2023/04/04/repeat-again.html)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
