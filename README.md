@@ -4,7 +4,7 @@
 
 <h2>🎵 Listen Along With Me 🎵</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=childers6998&cover_image=true&theme=novatorem&bar_color=604bb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=childers6998&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=childers6998&redirect=true)
 
 
 <details closed><summary><h1>📊Stats and Projects</h1></summary><br>
