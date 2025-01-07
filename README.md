@@ -48,7 +48,7 @@
 <hr>
 
 <p align=""> 
-<img src="https://komarev.com/ghpvc/?username=im-zach&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"> 
+<img src="https://komarev.com/ghpvc/?username=charlotte-2222&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"> 
     </p>
     
  <p align="">   
@@ -61,5 +61,5 @@
 
 <details closed><summary>What I'm Currently Doing</summary><br>
 I've taken a step back from most projects I'm contributing to at the moment.<br>
-So truly nothing. I write occasionally, sometimes performative art. I spend time with my already established partners or otherwise dating.
+My primary goal right now is writing.
  </details>
