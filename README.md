@@ -38,11 +38,11 @@
 ### Latest Blog Post:
 
 <!-- BLOG-POST-LIST:START -->
-- [Balls](https://charlotte-2222.github.io/2024/10/29/test.html)
-- [Relationships, Fighting, AI](https://charlotte-2222.github.io/2024/01/23/fights.html)
-- [Slightly annoyed rn](https://charlotte-2222.github.io/2024/01/22/Back-Again.html)
-- [I Think I Think Too Much](https://charlotte-2222.github.io/2023/04/17/somber-regret.html)
-- [Descent into Ease](https://charlotte-2222.github.io/2023/04/11/descent-into-ease.html)
+- [Welcome to the New Year!](https://charlotte-2222.github.io/2025/01/08/first-post-of-the-year.html)
+- [Turn of Events - for the better?](https://charlotte-2222.github.io/2023/02/24/dates-lesgo.html)
+- [The Social Media Problem](https://charlotte-2222.github.io/2023/02/18/Social-Media.html)
+- [First Post of the Year](https://charlotte-2222.github.io/2023/02/11/first-of-the-year.html)
+- [New Guy, Sad Days](https://charlotte-2222.github.io/2022/12/20/new-guy-and-sads.html)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
