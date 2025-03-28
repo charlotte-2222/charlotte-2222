@@ -35,16 +35,6 @@
 <hr>
 
 
-### Latest Blog Post:
-
-<!-- BLOG-POST-LIST:START -->
-- [Poetry.](https://charlotte-2222.github.io/2025/01/16/poetry-postings.html)
-- [On Pycharm, Discord, and IDEs.](https://charlotte-2222.github.io/2025/01/15/pycharm-change.html)
-- [Welcome to the New Year!](https://charlotte-2222.github.io/2025/01/08/first-post-of-the-year.html)
-- [Turn of Events - for the better?](https://charlotte-2222.github.io/2023/02/24/dates-lesgo.html)
-- [The Social Media Problem](https://charlotte-2222.github.io/2023/02/18/Social-Media.html)
-<!-- BLOG-POST-LIST:END -->
-
 <hr>
     
  <p align="">   
