@@ -1,5 +1,14 @@
+# Hi there, I'm Charlotte! 👋
 
-<img src="https://raw.githubusercontent.com/charlotte-2222/random-images/main/github_splash.png">
+I'm a passionate developer with a love for open-source software and a knack for creating innovative solutions. I specialize in Python & APIs, and I'm always eager to learn new technologies and improve my skills.
+
+
+
+## 🌟 Highlights
+- 🛠️ **Skills:** Python, Web-Dev, Visual Basic, Kotlin, C#
+- 📦 **Projects:** 
+  - [OmelettePy](https://github.com/charlotte-2222/omelettePy) - A discord utility bot
+  - [Rolling Hills Veterinarian](https://github.com/charlotte-2222/Rolling-Hills-Veterinarian) - This application is intended to function as a "Front Desk" style app that enables it's users (Veterinarian Staff) to effortlessly create patient/owner accounts, make appointments, and email owners. 
 
 
 <h2>🎵 Listen Along With Me 🎵</h2>
@@ -13,17 +22,14 @@
    
 ![Stats](https://github.com/charlotte-2222/CopyofGitVisual/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![Top Langs](https://github.com/charlotte-2222/CopyofGitVisual/blob/master/generated/languages.svg#gh-dark-mode-only)
-    
-    
 
-<br><a href="https://github.com/charlotte-2222/FembotV3">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=FembotV3&theme=omni)](https://github.com/charlotte-2222/FembotV3)
- </a><a href="https://github.com/charlotte-2222/the-buttons">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=the-buttons&theme=omni)](https://github.com/charlotte-2222/the-buttons)</a>
-    
-<br><a href="https://github.com/charlotte-2222/Rolling-Hills-Veterinarian">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=Rolling-Hills-Veterinarian&theme=omni)](https://github.com/charlotte-2222/Rolling-Hills-Veterinarian)<a href="https://github.com/charlotte-2222/charr-lang">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=charr-lang&theme=omni)](https://github.com/charlotte-2222/charr-lang)</a>
+<br><a href="https://github.com/charlotte-2222/omelettePy">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=omelettePy&theme=omni)](https://github.com/charlotte-2222/omelettePy)</a>
+<br>
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/charlotte-2222/omelettePy)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/charlotte-2222/omelettePy)
+
+
     
     
 </div>
@@ -40,8 +46,3 @@
 <img src="https://raw.githubusercontent.com/charlotte-2222/charlotte-2222/32de06aa5256b8f3fbee5de105ce485d1bf8f360/trans-rights.svg">
 
 </p>
-
-<details closed><summary>What I'm Currently Doing</summary><br>
-I've taken a step back from most projects I'm contributing to at the moment.<br>
-My primary goal right now is writing.
- </details>
